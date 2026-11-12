@@ -1,0 +1,4 @@
+interface:
+  display_name: "自适应 Goal 与循环编译器"
+  short_description: "发现未知并编译可运行的最小 Goal Prompt"
+  default_prompt: "使用 $adaptive-goal-loop-designer 为当前复杂任务设计合适的目标、循环和评价装置。"
